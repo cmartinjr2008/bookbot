@@ -1,3 +1,3 @@
 # bookbot
 
-BootBot is my first git project! 
+Bookbot is me trying to figure out this python thing. 
